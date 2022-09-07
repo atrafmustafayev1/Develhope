@@ -1,0 +1,3 @@
+ The name of the restaurant: "Group 4"
+      Menu: "Fish"
+      Drinks: "Tropic Lemonade, Mix Fruit Lemonade, Red berries Lemonade, Basil apple Lemonade"
